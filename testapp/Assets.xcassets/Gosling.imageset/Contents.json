@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "638ea792-2972-4ab9-998d-3ae7a33c821b.__CR87,0,1746,1080_PT0_SX970_V1___.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "638ea792-2972-4ab9-998d-3ae7a33c821b.__CR87,0,1746,1080_PT0_SX970_V1___ 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "638ea792-2972-4ab9-998d-3ae7a33c821b.__CR87,0,1746,1080_PT0_SX970_V1___ 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
