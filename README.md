@@ -1,4 +1,4 @@
-# Sigmagram-SwiftUI
+# Sigmagram-SwiftUI - an Instagram clone project
 
 For random user JSONs:  https://random-data-api.com
 
