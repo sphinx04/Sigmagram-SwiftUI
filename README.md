@@ -1,4 +1,6 @@
-# Sigmagram-SwiftUI - an Instagram clone project
+# Sigmagram-SwiftUI
+
+Mimicked Instagram's main screen and search screen
 
 For random user JSONs:  https://random-data-api.com
 
